@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "naverni_ty_menya_ne_pomnesh",
+      "category": "Misc"
+    },
+    "components": {
+      "minecraft:music_disc": {
+        "sound_event": "naverni_ty_menya_ne_pomnesh",
+        "duration": 180.0,
+        "comparator_signal": 15
+      },
+      "minecraft:icon": { "texture": "disc4" },
+      "minecraft:display_name": { "value": "Наверни ты меня не помнешь" }
+    }
+  }
+}

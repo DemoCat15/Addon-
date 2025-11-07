@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "ya_postroyu",
+      "category": "Misc"
+    },
+    "components": {
+      "minecraft:music_disc": {
+        "sound_event": "ya_postroyu",
+        "duration": 180.0,
+        "comparator_signal": 15
+      },
+      "minecraft:icon": { "texture": "disc14" },
+      "minecraft:display_name": { "value": "Я построию" }
+    }
+  }
+}

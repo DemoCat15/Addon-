@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "borcen_clock",
+     "category": "Misc"
+    },
+    "components": {
+      "minecraft:music_disc": {
+        "sound_event": "borcen_clock",
+        "duration": 180.0,
+        "comparator_signal": 15
+      },
+      "minecraft:icon": { "texture": "disc3" },
+      "minecraft:display_name": { "value": "Borcen Clock" }
+    }
+  }
+}

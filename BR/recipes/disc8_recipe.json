@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "luk_batun_recipe" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " R ",
+      "RFR",
+      " R "
+    ],
+    "key": {
+      "R": { "item": "minecraft:redstone" },
+      "F": { "item": "minecraft:allium" }
+    },
+    "result": { "item": "luk_batun", "count": 1 }
+  }
+}

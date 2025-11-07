@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "ranhe_bylo_luchshe",
+     "category": "Misc"
+    },
+    "components": {
+      "minecraft:music_disc": {
+        "sound_event": "ranhe_bylo_luchshe",
+        "duration": 180.0,
+        "comparator_signal": 15
+      },
+      "minecraft:icon": { "texture": "disc2" },
+      "minecraft:display_name": { "value": "Ранше было лучше" }
+    }
+  }
+}

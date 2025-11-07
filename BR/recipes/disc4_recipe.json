@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "naverni_ty_menya_recipe" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " R ",
+      "RFR",
+      " R "
+    ],
+    "key": {
+      "R": { "item": "minecraft:redstone" },
+      "F": { "item": "minecraft:red_tulip" }
+    },
+    "result": { "item": "naverni_ty_menya_ne_pomnesh", "count": 1 }
+  }
+}

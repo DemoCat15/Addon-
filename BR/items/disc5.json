@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "siniy_vaselok",
+     "category": "Misc"
+    },
+    "components": {
+      "minecraft:music_disc": {
+        "sound_event": "siniy_vaselok",
+        "duration": 180.0,
+        "comparator_signal": 15
+      },
+      "minecraft:icon": { "texture": "disc5" },
+      "minecraft:display_name": { "value": "Синий Васелок" }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "you_are",
+      "category": "Misc"
+    },
+    "components": {
+      "minecraft:music_disc": {
+        "sound_event": "you_are",
+        "duration": 180.0,
+        "comparator_signal": 15
+      },
+      "minecraft:icon": { "texture": "disc10" },
+      "minecraft:display_name": { "value": "You Are" }
+    }
+  }
+}

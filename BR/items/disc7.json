@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "cicsur_monster",
+      "category": "Misc"
+    },
+    "components": {
+      "minecraft:music_disc": {
+        "sound_event": "cicsur_monster",
+        "duration": 180.0,
+        "comparator_signal": 15
+      },
+      "minecraft:icon": { "texture": "disc7" },
+      "minecraft:display_name": { "value": "Cicsur Monster" }
+    }
+  }
+}

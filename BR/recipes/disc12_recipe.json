@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "sakura_valley_recipe" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " R ",
+      "RFR",
+      " R "
+    ],
+    "key": {
+      "R": { "item": "minecraft:redstone" },
+      "F": { "item": "minecraft:pink_petals" }
+    },
+    "result": { "item": "sakura_valley", "count": 1 }
+  }
+}

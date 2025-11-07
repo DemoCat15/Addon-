@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "borcen_clock_recipe" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " R ",
+      "RFR",
+      " R "
+    ],
+    "key": {
+      "R": { "item": "minecraft:redstone" },
+      "F": { "item": "minecraft:flower_pot" }
+    },
+    "result": { "item": "borcen_clock", "count": 1 }
+  }
+}

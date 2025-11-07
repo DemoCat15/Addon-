@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "kamin",
+      "category": "Misc"
+    },
+    "components": {
+      "minecraft:music_disc": {
+        "sound_event": "kamin",
+        "duration": 180.0,
+        "comparator_signal": 15
+      },
+      "minecraft:icon": { "texture": "disc6" },
+      "minecraft:display_name": { "value": "Камин" }
+    }
+  }
+}
