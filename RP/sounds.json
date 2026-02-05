@@ -1,0 +1,48 @@
+{
+  "individual_event_sounds": {
+    "events": {
+      "liveng_mice": {
+        "sounds": [{ "name": "sounds/music_discs/liveng_mice", "stream": true }]
+      },
+      "ranhe_bylo_luchshe": {
+        "sounds": [{ "name": "sounds/music_discs/ranhe_bylo_luchshe", "stream": true }]
+      },
+      "borcen_clock": {
+        "sounds": [{ "name": "sounds/music_discs/borcen_clock", "stream": true }]
+      },
+      "naverni_ty_menya_ne_pomnesh": {
+        "sounds": [{ "name": "sounds/music_discs/naverni_ty_menya_ne_pomnesh", "stream": true }]
+      },
+      "siniy_vaselok": {
+        "sounds": [{ "name": "sounds/music_discs/siniy_vaselok", "stream": true }]
+      },
+      "kamin": {
+        "sounds": [{ "name": "sounds/music_discs/kamin", "stream": true }]
+      },
+      "cicsur_monster": {
+        "sounds": [{ "name": "sounds/music_discs/cicsur_monster", "stream": true }]
+      },
+      "luk_batun": {
+        "sounds": [{ "name": "sounds/music_discs/luk_batun", "stream": true }]
+      },
+      "dreeper": {
+        "sounds": [{ "name": "sounds/music_discs/dreeper", "stream": true }]
+      },
+      "you_are": {
+        "sounds": [{ "name": "sounds/music_discs/you_are", "stream": true }]
+      },
+      "electric_angel": {
+        "sounds": [{ "name": "sounds/music_discs/electric_angel", "stream": true }]
+      },
+      "sakura_valley": {
+        "sounds": [{ "name": "sounds/music_discs/sakura_valley", "stream": true }]
+      },
+      "vitamia": {
+        "sounds": [{ "name": "sounds/music_discs/vitamia", "stream": true }]
+      },
+      "ya_postroyu": {
+        "sounds": [{ "name": "sounds/music_discs/ya_postroyu", "stream": true }]
+      }
+    }
+  }
+}
