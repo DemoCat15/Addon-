@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "New Disc BP",
+    "description": "Behavior pack that adds 14 craftable custom music discs.",
+    "uuid": "8ad3a859-2b6f-4be7-84b7-6f59250665e9",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "6ef8d55f-e863-48a4-b2b6-962e8049ecfd",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "f74f8ca1-f66c-460a-b7fd-a6d60cff49cb",
+      "version": [1, 0, 0]
+    }
+  ]
+}

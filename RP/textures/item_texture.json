@@ -1,0 +1,20 @@
+{
+  "resource_pack_name": "new_disc_pack",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "disc1": { "textures": "textures/items/record_13" },
+    "disc2": { "textures": "textures/items/record_cat" },
+    "disc3": { "textures": "textures/items/record_blocks" },
+    "disc4": { "textures": "textures/items/record_chirp" },
+    "disc5": { "textures": "textures/items/record_far" },
+    "disc6": { "textures": "textures/items/record_mall" },
+    "disc7": { "textures": "textures/items/record_mellohi" },
+    "disc8": { "textures": "textures/items/record_stal" },
+    "disc9": { "textures": "textures/items/record_strad" },
+    "disc10": { "textures": "textures/items/record_ward" },
+    "disc11": { "textures": "textures/items/record_11" },
+    "disc12": { "textures": "textures/items/record_wait" },
+    "disc13": { "textures": "textures/items/music_disc_pigstep" },
+    "disc14": { "textures": "textures/items/music_disc_relic" }
+  }
+}
